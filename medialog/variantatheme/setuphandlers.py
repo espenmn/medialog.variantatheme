@@ -5,7 +5,7 @@ def setupVanoous(context):
     # flag to check that we actually meant for this import step to be run.
     # The file is found in profiles/default.
 
-    if context.readDataFile('medialog.variantatheme_vanoous.txt') is None:
+    if context.readDataFile('medialog.variantatheme_various.txt') is None:
         return
 
     # Add additional setup code here

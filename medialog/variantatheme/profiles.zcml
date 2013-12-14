@@ -11,12 +11,5 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
-  <genericsetup:importStep
-      name="medialog.variantatheme.vanoous"
-      title="Variantatheme Theme: miscellaneous import steps"
-      description="Vanoous import steps that are not handled by GS import/export handlers."
-      handler="medialog.variantatheme.setuphandlers.setupVanoous">
-    <depends name="skins"/>
-  </genericsetup:importStep>
 
 </configure>
