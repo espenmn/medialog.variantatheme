@@ -187,11 +187,17 @@ display: block;
 #footerportlets .portlet {
 background: transparent
 }
+
 #portal-searchbox {
 position: absolute;
-top:  25px;
-right: 25px;;
+top:  60px;
+right: 15px;;
 }
+
+input#searchGadget.searchField {
+	padding: 3px 6px 4px;
+}
+
 #portal-column-one .portletWrapper {
 width: 150px;
 }
