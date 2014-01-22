@@ -1032,6 +1032,7 @@ margin: 0 auto;
 height: 39px;
 text-decoration: none;
 margin-right: 2px;
+background:  #004d97 url(000menuanddevider.png) repeat-x 0px -49px;
 }
 #portal-globalnav a:hover,
 #portal-globalnav .selected a:hover {
