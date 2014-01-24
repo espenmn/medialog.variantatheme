@@ -1,3 +1,5 @@
+/* @override http://ep3.designs.nidelven-it.no/portal_css/subskins/resourceplonesubskins_styles-cachekey-cec1209f8d3b762480ba85a69a9c59ae.css */
+
  
 #portal-columns #portal-breadcrumbs {
 display: block;
@@ -311,7 +313,7 @@ cursor: pointer;
 border: 0 none !important;
 }
 div.searchSection {
-color: #ddd;
+color: #ccc;
 font-size: 11px;
 margin-top: 9px;
 }
@@ -833,7 +835,7 @@ tbody tr td {
 
 .portletWrapper {
 margin: 10px 0;
-border: 1px solid #B2b3B2;
+border: 1px solid #9c9d9b;
 border-bottom: 0 none;
 float:  left;
 width:  118px;
@@ -858,7 +860,7 @@ font-size: 12px;
 text-decoration: none;
 clear: both;
 font-weight: normal;
-color: #808080;
+color: #666;
 }
 .portlet ul {
 list-style-type: none;
@@ -873,7 +875,7 @@ text-transform: none;
 font-size: 12px;
 line-height: 20px;
 padding: 0 10px;
-background:  #808080;
+background:  #777;
 margin-bottom: 10px;
 }
 .portletHeader a.tile {
